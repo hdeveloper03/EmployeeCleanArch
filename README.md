@@ -1,6 +1,6 @@
 # EmployeeCleanArch
 
-Simple CRUD operation for Employee using Clean Architecture in .NET 6
+Simple CRUD operation for Employee Object using Clean Architecture in .NET 6
 
 ## Run The Project
 You will need the following tools:
